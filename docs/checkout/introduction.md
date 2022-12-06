@@ -1,4 +1,4 @@
-# Checkout by CandyPay
+# Checkout by StreamPay
 
 A low-code checkout solution, powering seamless, mobile-native, and effortless Payment infrastructure for web3 businesses, where you can get started accepting Solana payments in a few lines of code!
 
