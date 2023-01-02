@@ -3,13 +3,13 @@
 Documentation site for StreamPay's Public API and SDK
 
 
-# Revolutionizing The Payment Industry
+## Revolutionizing The Payment Industry
 
 #### Stream Protocol is set to revolutionize the online payment industry with its web3 payment infrastructure. 
 
 StreamPay infrastructure is designed to provide high efficiency, transparency, and fairness for both the merchants and the users.
 
-# Architecture
+## Architecture
 
 #### eCommerce infrastructure for Solana Blockchain
 
