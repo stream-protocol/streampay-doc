@@ -14,3 +14,6 @@ Right now, online payments are centralized relying on expensive third-party medi
 
 StreamPay is a global decentralized payment platform built on top of Solana's highly scalable blockchain. It utilizes blockchain technology to issue fast and secure real-time payment transactions between merchants and customers using the SOL, STR, USDC, EURC stablecoins etc. as an intermediary instrument.
 
+### StreamPOS
+
+Point of Sale Systems

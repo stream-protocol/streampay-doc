@@ -17,10 +17,13 @@ features:
     title: Fast & Secure
     details: Coming soon...
   - icon: 🎉
-    title: StreamPay Wallet Mobile Application
+    title: StreamPay Wallet Application
     details: Coming soon...
   - icon: 🔥
     title: Global Payments
+    details: Coming soon...
+  - icon: 🎉
+    title: StreamPOS - Point Of Sale Systems
     details: Coming soon...
   - icon: 🎀
     title: Instant Settlement
