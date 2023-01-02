@@ -50,7 +50,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: "Built on Solana",
+      copyright: "© 2023 Stream Protocol. Built on Solana",
     },
 
     sidebar: [
