@@ -1,8 +1,8 @@
 # Create and launch your NFT collection on Solana (start-to-end guide)
 
-Heya builders! We're going to be launching an NFT collection on Solana in no time using Metaplex’s new Candy Machine tool — Sugar CLI. Sugar CLI comes with quite a few improvements:
+Launching an NFT collection on Solana in no time using Metaplex’s new Candy Machine tool — Sugar CLI. Sugar CLI comes with quite a few improvements:
 
-1. Improved Arweave upload performance, the image upload operations take advantage of multithreaded systems to significantly speed up the computational time.
+1. Improved Arweave upload performance, the image upload operations take advantage of multi-threaded systems to significantly speed up the computational time.
 2. Simplified UX
 3. Robust error handling and validation of the inputs
 4. Simplified installation step, Sugar CLI comes with a ready-to-use distributable binary which simplifies the install step

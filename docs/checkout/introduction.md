@@ -14,9 +14,9 @@ The roadblock to accepting Solana and overall cryptocurrency payments is the ava
 
 ### 2. Hard integration and unbearable UX
 
-Available crypto payment infrastructure providers like Coinbase Commerce and BitPay
+Available crypto payment infrastructure providers like Stripe, Coinbase Commerce and BitPay
 
-- Does not support Solana and SPL Tokens
+- Does not support SOL (Solana), USDC, EURC and SPL Tokens
 - Are hard to integrate, and manage and cause issues to scale
 - The UX to Pay is crappy, and unreliable from a customer perspective
 
@@ -24,13 +24,13 @@ Available crypto payment infrastructure providers like Coinbase Commerce and Bit
 
 A major fraction of Solana users are mobile-native and the upcoming wave of new users will be mobile-heavy too. Still, almost all payment providers don't work well on mobile devices, and the UX is unbearable for users
 
-## Introducing: Checkout
+## Introducing: StreamPay Checkout
 
 To solve these problems, we created "Checkout", in the first release we'll power these main features at the core,
 
 ### 1. Pre-built Checkout solution
 
-Checkout is a low-code solution for businesses to accept Solana Payments with ease. It powers a pre-built checkout page with all the necessary components it takes for businesses to accept and users to pay in Solana and SPL tokens. No tech jargon, no need to handle wallets, QR codes, or building everything from scratch, we do that for you! Meanwhile, the end-user experience is Top-Notch and built to convert them into paid users, by offering multiple payment streams (Connect wallet for desktop, Tap to Pay for mobile, and QR Code payment for IRL payments) and major Solana tokens (USDC, SOL, DUST, etc.)
+Checkout is a low-code solution for businesses to accept Solana Payments with ease. It powers a pre-built checkout page with all the necessary components it takes for businesses to accept and users to pay in Solana and SPL tokens. Users no need to handle wallets, QR codes, or building everything from scratch, we do that for you! Meanwhile, the end-user experience is Top-Notch and built to convert them into paid users, by offering multiple payment streams (Connect wallet for desktop, Tap to Pay for mobile, and QR Code payment for IRL payments) and major Solana tokens (USDC, SOL, STR, etc.)
 
 ### 2. Powering ‘one-click’ Tap to Pay UX for mobile
 
@@ -48,7 +48,7 @@ Our Checkout solution is non-custodial forever, i.e **we don’t hold your funds
 
 - **Support for swap transactions**
 
-  Cryptocurrencies are volatile in nature and businesses need to secure their earnings from price fluctuations! To ensure this, we support "Swap Transactions", where end users can choose to pay from multiple supported SPL tokens (SAMO, STREAM, DUST, GARI) and SOL itself, but merchants will only receive USDC (fully backed stablecoin) and can remain stress free from price fluctuations!
+  Cryptocurrencies are volatile in nature and businesses need to secure their earnings from price fluctuations! To ensure this, we support "Swap Transactions", where end users can choose to pay from multiple supported SPL tokens (SAMO, STREAM, DUST, GARI) and SOL itself, but merchants will only receive EURC or USDC (fully backed stablecoin) and can remain stress free from price fluctuations!
 
 - **Mobile Native, Multi Pay methods with the best UX**
 
@@ -61,22 +61,22 @@ Our Checkout solution is non-custodial forever, i.e **we don’t hold your funds
 
 - **Multiple SPL tokens support**
 
-  Merchants can choose and configure multiple SPL tokens (like DUST, STREAM, GARI, SAMO, etc) they would like to offer to their users! We only support a pool of whitelisted tokens based on certain parameters, but launch partners can contact us to add tokens of their choice!
+  Merchants can choose and configure multiple SPL tokens (like DUST, STR, GARI, SAMO, etc) they would like to offer to their users! We only support a pool of whitelisted tokens based on certain parameters, but launch partners can contact us to add tokens of their choice!
 
 - **Easy-to-use SDKs supporting multi-stack integration**
 
-  Our SDK allows teams or businesses to start accepting Solana payments in just a few lines of code, without any hassle on web3 jargon. We cover them all for you with a pre-built hosted checkout solution. Our SDK is built to primarily power Node and React/Next TS framework, but we are open to power Native, Flutter and other web or mobile frameworks as the need arises!
+  Our SDK allows teams or businesses to start accepting Solana payments in just a few lines of code, without any hassle on web3 jargon. We cover them all for you with a pre-built hosted checkout solution. StreamPay SDK is built to primarily works Node and React/Next TS framework, but we are open to power Native, Flutter and other web or mobile frameworks as the need arises!
 
 ## Platform fees
 
-Our platform fee is not decided yet and is still under active discussions! For the **Launch Partners** (First 100 businesses/merchants accepting Solana Payments with our infrastructure), we are taking it custom with a 1/1 interaction based on the needs and volume of your company where we offer you a number of first transactions completely free without any charges, and the rest for minimal % processing fee per transactions, for the first 4 months till we conclude on a final pricing model!
+Our platform fee is not decided yet and is still under active discussions! For the **Launch Partners**. Over 150 businesses/merchants accepting Solana Payments differential infrastructures), we are taking it custom with a 1/1 interaction based on the needs and volume of your company where we offer you a number of first transactions completely free without any charges, and the rest for minimal % processing fee per transactions, for the first 4 months till we conclude on a final pricing model!
 
 We promise to serve you the best in class, and only earn when your business and customer feel satisfied! Web2 alternatives like Stripe charges 6.2% per transaction for international payments and we ought to take that down drastically for merchants like you to serve a global audience and earn significantly more from day 0!
 
 ## Get in touch
 
-Loved Checkout and are excited to power seamless, mobile-native, and best-in-class payments experiences in your web3 and Solana dApp, business, startup, e-commerce website, and many such use cases? We would love to have a word from you, learn about your needs, and have you as one of our launch partners! Reach out to us on these platforms and let’s discuss more,
+Stream Checkout and are excited to power seamless, mobile-native, and best-in-class payments experiences in your web3 and Solana dApp, business, startup, eCommerce website, and many such use cases? We would love to have a word from you, learn about your needs, and have you as one of our launch partners! Reach out to us on these platforms and let’s discuss more,
 
-- **Twitter** - https://twitter.com/stream_payments
+- **Twitter** - https://twitter.com/stream_protocol
 - **Mail** - [contact@streamprotocol.org](mailto:contact@streamprotocol.org)
 - **Discord** - https://discord.gg/ Coming Soon

@@ -9,7 +9,7 @@ export default defineConfig({
   cleanUrls: "without-subfolders",
 
   head: [
-    ["meta", { name: "theme-color", content: "#171828" }],
+    ["meta", { name: "theme-color", content: "#00072c" }],
     [
       "link",
       {
@@ -45,7 +45,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "twitter", link: "https://twitter.com/stream_payment" },
+      { icon: "twitter", link: "https://twitter.com/stream_protocol" },
       { icon: "discord", link: "https://dsc.gg/streampay" },
     ],
 

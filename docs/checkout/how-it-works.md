@@ -1,6 +1,6 @@
 # How it works
 
-A step-by-step overview of how Checkout works and collects payments for you. In this guide we'll learn how Checkout will work in your webiste with a look at features we power for multiple usecases! An in-depth implementation is available [here](../checkout/quickstart.html)
+A step-by-step overview of how StreamPay Checkout works and collects payments for you. In this guide we'll learn how Checkout will work in your website with a look at features we provide for multiple use cases! An in-depth implementation is available [here](../checkout/quickstart.html)
 
 ## Checkout workflow 
 

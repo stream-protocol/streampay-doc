@@ -44,7 +44,7 @@ const { mutate, isLoading } = useCheckout(genSessionId)
 
 ```
 
-In the above example, `genSessionId` is a function that returns a Promise that resolves to a session ID. Refer to the [API docs](https://docs.streampayments.app/api-reference/checkout-api) for more information on how to generate a session ID.
+In the above example, `genSessionId` is a function that returns a Promise that resolves to a session ID. Refer to the [API docs](https://docs.streampayment.app/api-reference/checkout-api) for more information on how to generate a session ID.
 
 ### Using the exported `mutate` function
 
