@@ -199,5 +199,5 @@ Set up webhooks to detect and fulfill new payments and run post-checkout events 
 :::
 
 ::: info • [Demo e-commerce app](https://github.com/stream-protocol/checkout-ecommerce-example.git)
-Access this demo e-commmerce webiste accepting Solana payments with Checkout SDK and refer it to create your own more complex applications accepting cross-border payments.
+Access this demo eCommmerce website accepting Solana payments with StreamPay Checkout SDK and refer it to create your own more complex applications accepting cross-border payments.
 :::

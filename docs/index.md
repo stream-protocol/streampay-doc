@@ -2,22 +2,22 @@
 layout: home
 
 hero:
-  text: Commerce infrastructure for Solana
-  tagline: StreamPay is a payment processing platform for merchants, providing a fast and secure way to accept cryptocurrency payments on Solana blockchain.
+  text: Commerce infrastructure for StreamPay
+  tagline: Stream Protocol is dedicated to revolutionizing the online and offline payment industry, to create an open, fair, secure, and transparent blockchain payment infrastructure needed by eCommerce, virtual goods marketplaces, games, and other industries.
   actions:
     - theme: brand
       text: Get Started
       link: /checkout/introduction.html
     - theme: alt
       text: Login on Dashboard
-      link: https://dashboard.streampayments.app
+      link: https://dashboard.streampayment.app
 
 features:
   - icon: ⚡️
     title: Fast & Secure
     details: Coming soon...
   - icon: 🎉
-    title: Mobile Native
+    title: StreamPay Wallet Mobile Application
     details: Coming soon...
   - icon: 🔥
     title: Global Payments
